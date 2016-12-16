@@ -1,0 +1,1 @@
+<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="642" height="443" src="https://maps.google.com/maps?hl=en&q=lotustemple&ie=UTF8&t=roadmap&z=16&iwloc=B&output=embed"></iframe>

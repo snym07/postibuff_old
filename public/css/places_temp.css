@@ -1,0 +1,99 @@
+/* common style */
+body{
+	background-color: #F5F5F5;
+}
+
+.logo{
+	margin: 50px auto;
+}
+
+.suggestion-box{
+	margin: 20px;
+	background-color:#F44336;
+	border-radius: 2px;
+}
+
+.suggestion-box a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.social-icons{
+	margin: 10px auto;
+}
+
+/* main container */
+.pic-container{
+	background: url('../images/jm/jantar_mantar_cp.jpg') center / cover;
+	padding: 10px;
+	margin-bottom: 20px;
+	
+}
+
+/* main pic style */
+.main-pic{
+	background: center/cover;
+	height:200px;
+	width: 200px;
+	margin: 0 auto;
+	border-radius: 50%;
+	float: left;
+
+}
+
+.place-name{
+	color: #fff;
+	padding: 0 0px;
+	margin: 0 auto;
+
+	/*background-color: pink;*/
+}
+
+.place-name h3{
+	margin: 20px 0 0 0;
+	padding: 20px 0;
+}
+
+.location-icon{
+	margin: 0 10px 0 0;
+	padding: 0;
+	float: left;
+	
+}
+
+.place-name h5{
+	margin: 0 0 20px 0;
+	width: 100%;
+	
+}
+
+/* main description */
+.place-description{
+	/*background-color: pink;*/
+	margin: 0 auto;
+}
+
+.place-description h4{
+	margin: 0;
+	padding: 20px;
+}
+
+.place-description p{
+	margin: auto;
+	padding: 10px 20px;
+}
+
+.other-info{
+	margin:0 auto;
+}
+
+.other-info-icon{
+	height: 150px;
+	background-color: pink;
+	
+}
+
+.other-info-icon span{
+	background-color: blue;
+	border-radius: 50%;
+}

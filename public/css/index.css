@@ -1,0 +1,174 @@
+body{
+	background-color: #F5F5F5;
+}
+
+.logo{
+	margin: 50px auto;
+}
+
+.suggestion-box{
+	margin: 20px;
+	background-color:#F44336;
+	border-radius: 2px;
+}
+
+.suggestion-box a{
+	text-decoration: none;
+	color: #fff;
+}
+
+.social-icons{
+	margin: 10px auto;
+}
+
+.top-logo{
+	margin: 10px 10px 5px 10px;
+}
+
+.top-logo img{
+	height: 50px;
+	padding: 0 30px;
+}
+
+.bg-img{
+	background:url('../images/home_bg2.jpg') center/cover;
+	width: 100%;
+	height: 450px;
+	/*-webkit-filter: brightness(65%);
+    filter: brightness(65%);*/
+}
+
+.img-text{
+	color: white;
+	
+	float: left;
+	margin:70px 10px 0px;
+	padding: 10px;
+}
+
+.img-text-position-desktop{
+	margin: 70px 0 0 100px;
+	width: 30%;
+}
+
+.img-text-position-tablet{
+	margin: 30px;
+	width: 50%;
+}
+
+
+.img-text-position-phone{
+	margin: 10px;
+	width: 80%;
+}
+
+
+.quote{
+	margin:20px auto;
+	color: #616161;
+}
+
+.quote-icon-left{
+	float: left;
+}
+
+.quote-icon-right{
+	float: right;
+}
+
+.quote h4{
+	margin: 0;
+	padding: 0;
+}
+
+.all-category{
+	
+	background-color: ;
+}
+
+.location-icon{
+	float: left;
+	margin-right: 10px;
+}
+
+.category{
+	display: block;
+	margin: 10px auto;
+	padding: 10px 20px;
+	width: 90%;
+	background-color: white;
+	text-decoration: none;
+	color: #616161;
+	font-size: 1.2em;
+	border-radius: 2px;
+	/*transition: box-shadow 0.25s;*/
+}
+
+/*.category:hover{
+	box-shadow: 0 6px 10px 0 rgba(0, 0, 0, 0.14), 0 1px 18px 0 rgba(0, 0, 0, 0.12), 0 3px 5px -1px rgba(0, 0, 0, 0.2);
+	color: #F44336;
+}*/
+
+.event{
+	display: block;
+	margin: 10px auto;
+	padding: 10px 20px;
+	width: 100%;
+	height: 200px;
+	background-color: white;
+	text-decoration: none;
+	color:#FAFAFA;
+	font-size: 1.2em;
+	border-radius: 2px;
+	transition: box-shadow 0.3s;
+}
+
+/*.event:hover{
+	box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2); 
+}*/
+
+.event h2{
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+
+.event p{
+	margin: 0 0 0 0px;
+	padding: 0;
+
+}
+
+.event-description{
+	margin: 20px 0;
+}
+
+.category-card{
+	transition: box-shadow 0.3s;
+}
+
+/*.category-card:hover{
+	box-shadow: 0 16px 24px 2px rgba(0, 0, 0, 0.14), 0 6px 30px 5px rgba(0, 0, 0, 0.12), 0 8px 10px -5px rgba(0, 0, 0, 0.2); 
+}*/
+
+.category-card > .mdl-card__title {
+	color:#fff;
+	background:url('../images/lotus_temple.jpg') center/cover;
+	height: 176px;
+	 /*-webkit-filter: brightness(65%);
+    filter: brightness(65%);*/
+}
+
+.category-title{
+	margin:0;
+	padding: 0;	
+}
+
+.category-card > .mdl-card__menu {
+  color: #fff;
+}
+
+.gap-between-categories{
+	margin: 50px 0;
+}
